@@ -10,8 +10,13 @@ SIMPLON's Beauty care
 	3. Trương Nguyễn Quang Huy 	(Student1468180)
   4. Phạm Minh Tâm            (Student1468181)
 =======================================
+
 Documentations : https://github.com/hoangtien2093/SIMPLON_Beauty_care_Group03/tree/main/Documentation
+
 =======================================
+
 Published website : https://github.com/hoangtien2093/SIMPLON_Beauty_care_Group03/
+
 =======================================
+
 Thank you for visit our website.
